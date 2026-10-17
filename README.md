@@ -1,6 +1,4 @@
-Here is a clean, structured `README.md` tailored specifically to the files in your repository (`hr dataset.csv`, `hr_dataset_import.sql`, `create_hr_chart.py`, `HR Dashboard.pbix`, and your dashboard screenshots):
 
-```markdown
 # HR Analytics Dashboard
 
 An end-to-end Human Resources analytics project designed to analyze employee demographics, performance, attrition, and departmental trends using SQL, Python, and Power BI.
@@ -72,11 +70,11 @@ python create_hr_chart.py
 1. Download and open **`HR Dashboard.pbix`** in [Power BI Desktop](https://powerbi.microsoft.com/).
 2. If prompted, refresh the data source path to point to `hr dataset.csv` or your local database connection.
 
-```
+
 
 <img width="4800" height="3000" alt="hr_analytics_chart" src="https://github.com/user-attachments/assets/348a58d0-8ba4-43b0-9f9c-e4bff3fa582c" />
 <img width="1337" height="767" alt="1 (2)" src="https://github.com/user-attachments/assets/9f2d40a5-ffdf-4ed6-b2b1-45c44624acd9" />
 <img width="1327" height="745" alt="1 (1)" src="https://github.com/user-attachments/assets/07f7ef4c-a867-416c-986d-c4aba2c52138" />
 
 
-```
+
